@@ -19,6 +19,9 @@
 
 ### Задание 1. Настроить подключение к Yandex Query из DataLens
 
+Ссылка на дашборд:
+https://datalens.yandex.cloud/gscoy12jxzzw4-pz2-soldatenkova
+
 1\. Перейти в соответствующий сервис https://datalens.yandex.ru/.
 
 2\. Выбрать “Подключения” – “Создать новое подключение”.
@@ -43,7 +46,8 @@
 
 ### Задание 5. Все построенные графики вывести в виде единого дашборда в Yandex DataLens
 
-![](phs/5.png)
+![](phs/5.png) Ссылка на дашборд:
+https://datalens.yandex.cloud/gscoy12jxzzw4-pz2-soldatenkova
 
 ## Оценка результатов
 
